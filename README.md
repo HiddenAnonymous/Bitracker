@@ -6,7 +6,7 @@ and keep alert with the new movement
 of cryptos.
 
 ```
-https://github.com/HiddenAnonymous/Bitracker.git
+git clone https://github.com/HiddenAnonymous/Bitracker.git
 cd Bitracker && ls
 python2 bitracker.py
 ```
